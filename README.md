@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shahrear Chowdhury
+- 👀 I’m interested in all of the programming languages in this world or maybe mars aswell
+- 🌱 I’m currently learning AI/Machine Learning
+- 💞️ I’m looking to collaborate on any projects for free
+- 📫 How to reach me -> shahrear-portfolio.herokuapp.com
